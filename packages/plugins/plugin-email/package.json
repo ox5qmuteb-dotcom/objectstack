@@ -23,7 +23,7 @@
     "@objectstack/formula": "workspace:*",
     "@objectstack/platform-objects": "workspace:*",
     "@objectstack/spec": "workspace:*",
-    "nodemailer": "^9.1.1"
+    "nodemailer": "^10.0.9"
   },
   "devDependencies": {
     "@objectstack/objectql": "workspace:*",
